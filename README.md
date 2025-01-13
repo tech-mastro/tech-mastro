@@ -30,9 +30,12 @@ When I’m not analyzing data or supervising projects, you can find me experimen
 - **Impact:** Provided an accessible resource for researchers and engineers exploring sustainable soil stabilization techniques.  
 
 #### **4. Python for Civil Engineering**  
-- **What I Did:** Created scripts to analyze pavement durability and asphalt binder properties, shared as open-source tools.  
-- **Impact:** Helped peers streamline repetitive calculations, saving hours of manual work.  
-
+- **What I Did:** Developed Python scripts to analyze soil moisture data for geotechnical engineering applications.
+- **Key Features:**
+Automated data cleaning and preprocessing for sensor outputs.
+Visualizations of soil moisture variation over time and depth.
+Integration with weather data to assess correlations and trends.
+- **Impact:** Helped optimize soil stabilization techniques and irrigation planning by providing actionable insights into soil moisture behavior.
 ---
 
 ### **Guidance for Getting Help in Communities**  
