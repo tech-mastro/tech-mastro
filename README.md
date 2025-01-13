@@ -21,7 +21,7 @@ When I’m not analyzing data or supervising projects, you can find me experimen
 - **What I Did:** Developed strategies to enhance the mechanical properties of timber for use in sustainable construction.  
 - **Impact:** Improved understanding of timber's durability under different environmental conditions, contributing to renewable material adoption in engineering.  
 
-#### **2. Customer Retention Dashboard**  
+#### **2. Customer Retention Dashboard** (https://github.com/tech-mastro/PowerBI-dashboard)
 - **What I Did:** Built a Power BI dashboard for a telecom company to proactively identify at-risk customers.  
 - **Impact:** Enabled the retention team to implement targeted interventions, reducing churn rates by X%.  
 
