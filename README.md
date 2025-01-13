@@ -29,7 +29,7 @@ When I’m not analyzing data or supervising projects, you can find me experimen
 - **What I Did:** Documented and shared research findings on laterite soil stabilization using Locust Bean Pod Ash (LBPA).  
 - **Impact:** Provided an accessible resource for researchers and engineers exploring sustainable soil stabilization techniques.  
 
-#### **4. Python for Civil Engineering**  
+#### **4. Python for Civil Engineering** (https://github.com/tech-mastro/educational-works)
 - **What I Did:** Developed Python scripts to analyze soil moisture data for geotechnical engineering applications.
 - **Key Features:**
 Automated data cleaning and preprocessing for sensor outputs.
