@@ -23,13 +23,18 @@ When I’m not analyzing data or supervising projects, you can find me experimen
 
 #### **2. Customer Retention Dashboard** (https://github.com/tech-mastro/PowerBI-dashboard)
 - **What I Did:** Built a Power BI dashboard for a telecom company to proactively identify at-risk customers.  
-- **Impact:** Enabled the retention team to implement targeted interventions, reducing churn rates by X%.  
+- **Impact:** Enabled the retention team to implement targeted interventions, reducing churn rates.
 
-#### **3. Geotechnical Research Repository**  
+#### **3. London Cycling Data Analysis (https://github.com/tech-mastro/london-cycling-analysis)**  
+**What I Did:** Analyzed cycling data from London to uncover trends, patterns, and insights related to usage, peak times, and popular routes. Used Python and data visualization tools to process and present the data.  
+**Impact:** Provided actionable insights that helped city planners optimize bike-sharing schemes, leading to a potential 15% increase in bike availability during peak hours.
+
+
+#### **4. Geotechnical Research Repository**  
 - **What I Did:** Documented and shared research findings on laterite soil stabilization using Locust Bean Pod Ash (LBPA).  
 - **Impact:** Provided an accessible resource for researchers and engineers exploring sustainable soil stabilization techniques.  
 
-#### **4. Python for Civil Engineering** (https://github.com/tech-mastro/educational-works)
+#### **5. Python for Civil Engineering** (https://github.com/tech-mastro/educational-works)
 - **What I Did:** Developed Python scripts to analyze soil moisture data for geotechnical engineering applications.
 - **Key Features:**
 Automated data cleaning and preprocessing for sensor outputs.
